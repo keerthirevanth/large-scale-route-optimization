@@ -1,0 +1,6 @@
+gurobipy
+ortools
+numpy
+pandas
+folium
+requests
